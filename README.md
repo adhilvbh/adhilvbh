@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhil aseem
 - 👀 I’m interested in Predictive modelling
-- 🌱 I’m currently looking for a full-time position in Data Science
+- 🌱 I’m currently looking for a full-time position in Data Science/ Quantitative finance
 - 📫 How to reach me ...vbhadhil@gmail.com
 
 <!---
